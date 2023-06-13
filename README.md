@@ -1,5 +1,5 @@
-# ej2-svelet-app
-Sample SVELET application with Syncfusion EJ2 Components.
+# ej2-svelte-app
+Sample Svelte application with Syncfusion EJ2 Components.
 
 ## Installation
 
